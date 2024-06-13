@@ -1,2 +1,3 @@
 
 echo "alfred said NO"
+echo "alfred is now convinced"
